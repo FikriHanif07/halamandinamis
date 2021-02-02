@@ -1,1 +1,0 @@
-<h3>ini adalah halaman home</h3>
